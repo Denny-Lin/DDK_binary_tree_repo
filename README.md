@@ -1,6 +1,13 @@
 # DDK_binary_tree_repo
-It is a repo that record how can we use tree in the real life.
+It is a repo that records how can we use tree in the real life.
 
+1. Change print below to some variables in the tree.
+```C++
+visit(node)
+    if node.left  != null then visit(node.left)
+    print node.value
+    if node.right != null then visit(node.right)
+```
 
 
 # References

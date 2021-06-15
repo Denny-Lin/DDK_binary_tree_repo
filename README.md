@@ -11,7 +11,7 @@ struct node
 };
 ```
 
-2. The basic iteration uses stack.
+2. The basic recursion uses stack.
 ```C++
 visit(node)
     if node.left != null then visit(node.left)

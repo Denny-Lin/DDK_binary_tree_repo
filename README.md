@@ -26,6 +26,7 @@ visit(node)
 * The binary tree if we store like a binary search tree,the time could be just "4".<br>
 ![image](https://user-images.githubusercontent.com/67073582/122053003-eadfbb00-ce18-11eb-8c18-2c667d744a2d.png)
 * So, we could see, the structure is not look like a list anymore.
+* We can have a rule in the array and that is we call tree.
 * But as yuo can see, the tree looks not balanced.
 * To be continued...
 

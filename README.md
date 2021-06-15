@@ -19,9 +19,10 @@ visit(node)
     if node.right != null then visit(node.right)
 ```
 
-3. Why do we use binary tree?
-* Let's camompare with array and linked list.
-* If we have a series of number, such as, 1,2,3,4,5, we store the numbers in the array[5], linked_list and binary_tree.
+3. Why do we use binary tree? Let's camompare with array and linked list.
+* If we have a series of number, such as, 1,2,3,4,5,
+* Store the numbers in the array[5], linked_list and binary_tree seperately.
+* 
 
 
 # References

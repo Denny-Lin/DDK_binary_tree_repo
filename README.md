@@ -22,7 +22,7 @@ visit(node)
 3. Why do we use binary tree? Let's camompare with array and linked list.
 * If we have a serie of numbers, such as, 4,3,5,2,1,
 * Store the numbers in the array[5], linked_list and binary_tree seperately.
-* We want to search the number 1, so the times of array will be 5, linked_list will be 5, but....
+* And we search the number 1, so the times of array will be 5, linked_list will be 5, but....
 * The binary tree if we store like a binary search tree,the time could be just "4".<br>
 ![image](https://user-images.githubusercontent.com/67073582/122053003-eadfbb00-ce18-11eb-8c18-2c667d744a2d.png)
 * So, we could see, the structure is not look like a list anymore.
